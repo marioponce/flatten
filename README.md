@@ -1,5 +1,5 @@
 # flatten
-This is just another scrip to flaten json dictionaries in python3
+This is just another scrip to flatten json dictionaries in python3
 
 ## Docker
 1. Building the image.
