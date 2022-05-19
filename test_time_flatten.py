@@ -39,8 +39,8 @@ def check_time(instance:str, loops:int):
     t = timeit.timeit(stmt=ft.solution(instance), number=loops)
     print("For the  intance: \n")
     print(instance, "\n")
-    print("+Mean exceute time:", t)
-    print("+Number of loops excuted:", loops)
+    print("    + Mean exceute time:", t)
+    print("    + Number of loops excuted:", loops)
     print("\n","-"*80)
 
 if __name__ == "__main__":
